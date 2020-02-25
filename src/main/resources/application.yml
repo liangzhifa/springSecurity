@@ -4,6 +4,7 @@ spring:
     username: root
     password: zhifa123
     driver-class-name: com.mysql.cj.jdbc.Driver
+  
 mybatis-plus:
   global-config:
     db-config:
